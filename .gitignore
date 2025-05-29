@@ -1,0 +1,5 @@
+.venv/
+yfinance_data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
